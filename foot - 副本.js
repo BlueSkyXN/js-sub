@@ -1,4 +1,5 @@
-﻿document.write("<br>");
+﻿var str = "闽ICP备20009316号"; document.write( str.link( "https://beian.miit.gov.cn" ) );
+document.write("<br>");
 document.write("<a href=\"https://go.000714.xyz/payuk\" style=\"color: #40E0D0\" align=\"center\">Donate 赞赏</a>");
 document.write("<br>");
 document.write("<a href=\"https://www.blueskyxn.com/202109/5155.html\" style=\"color: #81e6dc\" align=\"center\">【广告】美国Cogent原生IP-VPS|</a>");
