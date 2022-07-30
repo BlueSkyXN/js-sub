@@ -2,6 +2,8 @@
 document.write("<a href=\"https://go.000714.xyz/payuk\" style=\"color: #40E0D0\" align=\"center\">Donate 赞赏</a>");
 document.write("<a href=\"https://go.000714.xyz/patreon\" style=\"color: #40E0D0\" align=\"center\">金融资讯独立版&会员订阅</a>");
 document.write("<br>");
+document.write("<a href=\"https://www.skyit.uk/contact\" style=\"color: #40E0D0\" align=\"center\">联系我+接Stripe-WISE-国际支付-汇款-转账-充值-出入金-代充-代付-辅助和咨询</a>");
+document.write("<br>");
 document.write("<a href=\"https://www.blueskyxn.com/202109/5155.html\" style=\"color: #81e6dc\" align=\"center\">【广告】美国Cogent原生IP-VPS|</a>");
 document.write("<a href=\"https://go.000714.xyz/bwg\" style=\"color: #81e6dc\" align=\"center\">【广告】搬瓦工美国香港CN2GIA-VPS|</a>");
 document.write("<br>");
